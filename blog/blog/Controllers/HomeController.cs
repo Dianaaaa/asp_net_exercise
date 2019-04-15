@@ -15,16 +15,18 @@ namespace blog.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Create()
         {
-            ViewData["Message"] = "Your application description page.";
 
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Detail()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Title"] = "This is a title";
+
+            ViewData["Message"] = "This is the content";
+
 
             return View();
         }

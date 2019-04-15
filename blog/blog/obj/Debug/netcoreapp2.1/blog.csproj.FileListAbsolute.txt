@@ -14,8 +14,6 @@ E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\blog.AssemblyInfo.cs
 E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\blog.TagHelpers.input.cache
 E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\blog.TagHelpers.output.cache
 E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\blog.RazorCoreGenerate.cache
-E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
-E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
 E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
@@ -30,4 +28,5 @@ E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\blog.Views.pdb
 E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\blog.dll
 E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\blog.pdb
 E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\blog.csproj.CopyComplete
-E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+E:\SE\asp_net_exercise\blog\blog\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detail.g.cshtml.cs
