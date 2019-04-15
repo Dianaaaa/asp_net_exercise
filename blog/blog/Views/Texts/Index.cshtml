@@ -1,0 +1,40 @@
+﻿@model IEnumerable<blog.Models.Text>
+
+@{
+    ViewData["Title"] = "首页";
+}
+
+<h2>首页</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PublishDate)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <br />
+                <h2>
+                    <a asp-action="Details" asp-route-id="@item.Id">
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </a>
+                </h2>
+            </td>
+            <td>
+                <br />
+                <p>
+                    @Html.DisplayFor(modelItem => item.PublishDate)
+                </p>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
